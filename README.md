@@ -1,2 +1,3 @@
 # hello-world
-Nipuna's firsg Git Repository
+Nipuna's first Git Repository
+This is a file created for testing purposes
